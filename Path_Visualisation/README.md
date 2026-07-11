@@ -148,7 +148,7 @@ most browsers block module imports on the `file://` protocol.
 1. **Clone the repo**
 
      ```bash
-     git clone https://github.com/<your-username>/<your-repo>.git
+     git clone https://github.com/Mohit-kumar24/Path_Visualiser/edit/main/Path_Visualisation.git
      cd Path_Visualisation
      ```
 
