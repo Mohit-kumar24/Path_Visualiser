@@ -1,0 +1,11 @@
+{
+  "name": "pathfinding-benchmark",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automated benchmark harness for BFS/DFS/Dijkstra/Bidirectional BFS on random grids. Zero dependencies.",
+  "main": "cli.mjs",
+  "scripts": {
+    "start": "node cli.mjs",
+    "sweep": "node cli.mjs --densities 0.1,0.2,0.3,0.4,0.5"
+  }
+}
