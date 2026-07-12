@@ -26,13 +26,13 @@ themes.
 
 | BFS | DFS |
 | --- | --- |
-| [![BFS demo](gif/BFS.gif)](gif/BFS.gif) | [![DFS demo](gif/DFS.gif)](gif/DFS.gif) |
+| [![BFS demo](Path_Visualisation/gif/BFS.gif)](Path_Visualisation/gif/BFS.gif) | [![DFS demo](Path_Visualisation/gif/DFS.gif)](Path_Visualisation/gif/DFS.gif) |
 
 | Dijkstra's Algorithm | Bidirectional BFS |
 | --- | --- |
-| [![Dijkstra demo](gif/Dijsktra.gif)](gif/Dijsktra.gif) | [![Bidirectional BFS demo](gif/Bidirectional_BFS.gif)](gif/Bidirectional_BFS.gif) |
+| [![Dijkstra demo](Path_Visualisation/gif/Dijsktra.gif)](Path_Visualisation/gif/Dijsktra.gif) | [![Bidirectional BFS demo](Path_Visualisation/gif/Bidirectional_BFS.gif)](Path_Visualisation/gif/Bidirectional_BFS.gif) |
 
-> GIFs live in [`gif/`](gif/) — see that folder's README for recording
+> GIFs live in [`gif/`](Path_Visualisation/gif/) — see that folder's README for recording
 > tips and expected filenames.
 
 ## Features
